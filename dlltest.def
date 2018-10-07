@@ -1,0 +1,6 @@
+LIBRARY	"dlltest"
+
+EXPORTS
+  TestCount				@1
+  TestLower				@2
+  TestFullWidth			@3
